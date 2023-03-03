@@ -1,2 +1,0 @@
-# Fynd-Academy 
-avb
